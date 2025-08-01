@@ -22,11 +22,15 @@ A visually accurate, fully responsive **UI-only clone** of the official [Chai Co
 
 ## 📁 Project Structure
 
+```
 Chai-Code Clone/
-├── Assests/
-│ ├── *.png, *.svg, *.jpg # All static assets and icons
-├── index.html # Main HTML structure
-└── style.css # Custom styling
+├── Assests/           # All static assets (images, icons)
+│   ├── *.png
+│   ├── *.svg
+│   └── *.jpg
+├── index.html         # Main HTML file
+└── style.css          # Custom CSS styles
+```
 
 
 ---
