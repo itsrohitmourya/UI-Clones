@@ -15,7 +15,7 @@ A visually accurate, fully responsive **UI-only clone** of the official [Chai Co
 - ✅ Pixel-perfect clone of Chai Code's layout
 - 🎨 Styled with **pure CSS**
 - 📱 Fully **responsive** design
-- 🖼️ Clean asset structure under `/Assests`
+- 🖼️ Clean asset structure under `/assets`
 - 🚀 Fast performance and clean HTML/CSS practices
 
 ---
@@ -24,7 +24,7 @@ A visually accurate, fully responsive **UI-only clone** of the official [Chai Co
 
 ```
 Chai-Code Clone/
-├── Assests/           # All static assets (images, icons)
+├── assets/           # All static assets (images, icons)
 │   ├── *.png
 │   ├── *.svg
 │   └── *.jpg
